@@ -18,3 +18,7 @@ Este projeto em C++ simula uma tabela periódica de elementos, com funcionalidad
 
 ```bash
 g++ src/tabela_periodica.cpp -o tabela
+
+## Relatório
+
+[📄 Relatório final](docs/relatorio_final.pdf)
