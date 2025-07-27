@@ -1,7 +1,7 @@
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
-[![CSV](https://img.shields.io/badge/Formato-CSV-lightgrey?style=for-the-badge&logo=filezilla&logoColor=black)]()
-[![Binário](https://img.shields.io/badge/Formato-Binário-blue?style=for-the-badge)]()
-[![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)]()
+[![CSV](https://img.shields.io/badge/CSV-DDEEFF?style=for-the-badge&logo=files&logoColor=black)]()
+[![Binário](https://img.shields.io/badge/Binário-Data-lightblue?style=for-the-badge)]()
+[![Terminal](https://img.shields.io/badge/Terminal-CLI-333?style=for-the-badge&logo=gnubash&logoColor=white)]()
 
 # Tabela Periódica em C++
 
