@@ -1,0 +1,119 @@
+Numero Atomico;Nome;Simbolo;Peso Atomico;Classificacao
+1;Hidrogenio;H;1.008;Nao metal
+2;Helio;He;4.0026;Gas nobre
+3;Litio;Li;6.94;Metal alcalino
+4;Berilio;Be;9.0122;Metal alcalino-terroso
+5;Boro;B;10.81;Semimetal
+6;Carbono;C;12.011;Nao metal
+7;Nitrogenio;N;14.007;Nao metal
+8;Oxigenio;O;15.999;Nao metal
+9;Fluor;F;18.998;Halogenio
+10;Neonio;Ne;20.18;Gas nobre
+11;Sodio;Na;22.99;Metal alcalino
+12;Magnesio;Mg;24.305;Metal alcalino-terroso
+13;Aluminio;Al;26.982;Metal do bloco p
+14;Silicio;Si;28.085;Semimetal
+15;Fosforo;P;30.974;Nao metal
+16;Enxofre;S;32.06;Nao metal
+17;Cloro;Cl;35.45;Halogenio
+18;Argonio;Ar;39.948;Gas nobre
+19;Potassio;K;39.098;Metal alcalino
+20;Calcio;Ca;40.078;Metal alcalino-terroso
+21;Escandio;Sc;44.956;Metal de transicao
+22;Titanio;Ti;47.867;Metal de transicao
+23;Vanadio;V;50.942;Metal de transicao
+24;Cromio;Cr;51.996;Metal de transicao
+25;Manganes;Mn;54.938;Metal de transicao
+26;Ferro;Fe;55.845;Metal de transicao
+27;Cobalto;Co;58.933;Metal de transicao
+28;Niquel;Ni;58.693;Metal de transicao
+29;Cobre;Cu;63.546;Metal de transicao
+30;Zinco;Zn;65.38;Metal de transicao
+31;Galio;Ga;69.723;Metal do bloco p
+32;Germanio;Ge;72.63;Semimetal
+33;Arsenio;As;74.922;Semimetal
+34;Selenio;Se;78.971;Nao metal
+35;Bromo;Br;79.904;Halogenio
+36;Criptonio;Kr;83.798;Gas nobre
+37;Rubidio;Rb;85.468;Metal alcalino
+38;Estroncio;Sr;87.62;Metal alcalino-terroso
+39;Itrio;Y;88.906;Metal de transicao
+40;Zirconio;Zr;91.224;Metal de transicao
+41;Niobio;Nb;92.906;Metal de transicao
+42;Molibdenio;Mo;95.95;Metal de transicao
+43;Tecnecio;Tc;98;Metal de transicao
+44;Rutenio;Ru;101.07;Metal de transicao
+45;Rodio;Rh;102.906;Metal de transicao
+46;Paladio;Pd;106.42;Metal de transicao
+47;Prata;Ag;107.868;Metal de transicao
+48;Cadmio;Cd;112.41;Metal de transicao
+49;Indio;In;114.818;Metal do bloco p
+50;Estanho;Sn;118.71;Metal do bloco p
+51;Antimonio;Sb;121.76;Semimetal
+52;Telurio;Te;127.6;Semimetal
+53;Iodo;I;126.904;Halogenio
+54;Xenonio;Xe;131.293;Gas nobre
+55;Cesio;Cs;132.905;Metal alcalino
+56;Bario;Ba;137.327;Metal alcalino-terroso
+57;Lantanio;La;138.91;Lantanideo
+58;Cerio;Ce;140.116;Lantanideo
+59;Praseodimio;Pr;140.907;Lantanideo
+60;Neodimio;Nd;144.242;Lantanideo
+61;Promecio;Pm;145;Lantanideo
+62;Samario;Sm;150.36;Lantanideo
+63;Europio;Eu;151.964;Lantanideo
+64;Gadolinio;Gd;157.25;Lantanideo
+65;Terbio;Tb;158.925;Lantanideo
+66;Disprosio;Dy;162.5;Lantanideo
+67;Holmio;Ho;164.93;Lantanideo
+68;Erbio;Er;167.259;Lantanideo
+69;Tulio;Tm;168.934;Lantanideo
+70;Iterbio;Yb;173.045;Lantanideo
+71;Lutecio;Lu;174.966;Lantanideo
+72;Hafnio;Hf;178.49;Metal de transicao
+73;Tantalo;Ta;180.947;Metal de transicao
+74;Tungstenio;W;183.84;Metal de transicao
+75;Renio;Re;186.207;Metal de transicao
+76;Osmio;Os;190.23;Metal de transicao
+77;Iridio;Ir;192.217;Metal de transicao
+78;Platina;Pt;195.084;Metal de transicao
+79;Ouro;Au;196.967;Metal de transicao
+80;Mercurio;Hg;200.59;Metal de transicao
+81;Talio;Tl;204.383;Metal do bloco p
+82;Chumbo;Pb;207.2;Metal do bloco p
+83;Bismuto;Bi;208.98;Metal do bloco p
+84;Polonio;Po;209;Semimetal
+85;Astato;At;210;Halogenio
+86;Radonio;Rn;222;Gas nobre
+87;Francio;Fr;223;Metal alcalino
+88;Radio;Ra;226;Metal alcalino-terroso
+89;Actinio;Ac;227;Actinideo
+90;Torio;Th;232.038;Actinideo
+91;Protactinio;Pa;231.035;Actinideo
+92;Uranio;U;238.029;Actinideo
+93;Netunio;Np;237;Actinideo
+94;Plutonio;Pu;244;Actinideo
+95;Americio;Am;243;Actinideo
+96;Curio;Cm;247;Actinideo
+97;Berquelio;Bk;247;Actinideo
+98;Californio;Cf;251;Actinideo
+99;Einstenio;Es;252;Actinideo
+100;Fermio;Fm;257;Actinideo
+101;Mendelevio;Md;258;Actinideo
+102;Nobelio;No;259;Actinideo
+103;Laurencio;Lr;262;Actinideo
+104;Rutherfordio;Rf;267;Metal de transicao
+105;Dubnio;Db;270;Metal de transicao
+106;Seaborgio;Sg;271;Metal de transicao
+107;Bohrio;Bh;270;Metal de transicao
+108;Hassio;Hs;277;Metal de transicao
+109;Meitnerio;Mt;276;Metal de transicao
+110;Darmstadio;Ds;281;Metal de transicao
+111;Roentgenio;Rg;280;Metal de transicao
+112;Copernicio;Cn;285;Metal de transicao
+113;Nihonio;Nh;284;Metal do bloco p
+114;Flerovio;Fl;289;Metal do bloco p
+115;Moscovio;Mc;288;Metal do bloco p
+116;Livermorio;Lv;292;Metal do bloco p
+117;Tenessino;Ts;294;Metal do bloco p
+118;Oganesonio;Og;294;Metal do bloco p
